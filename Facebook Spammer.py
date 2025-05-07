@@ -1,3 +1,6 @@
+# Maker: Rod Devon Domingo
+# Facebook Auto Comment Spammer Script (For educational/testing purposes only)
+
 import time
 import pyperclip
 from selenium import webdriver
